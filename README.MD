@@ -19,9 +19,22 @@
 ###	:cactus:	 Desenvolvimento
 
 - TypeScript
+
 - PostgreSQL
+
 - Prisma
+
 - NodeJs
+
+- NextJs
+
+- Axios
+
+  nookies 
+
+  jwt-decode
+  
+  react-toastify
 
 
 
